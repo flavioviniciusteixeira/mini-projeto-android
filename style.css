@@ -21,9 +21,8 @@ body{
 
 header{
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
-   height: 160px;
-   max-width: 100%;
-   min-width: 500px;
+    min-width: 500px;
+    max-width: 100%;
 }
 .titulo-principal{
     font-family:'Bebas';

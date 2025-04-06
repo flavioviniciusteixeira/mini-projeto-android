@@ -24,6 +24,8 @@ header{
    min-height: 150px;
    min-width: 500px;
     max-width: 100%;
+    display: block;
+    margin: auto;
 }
 .titulo-principal{
     font-family:'Bebas';

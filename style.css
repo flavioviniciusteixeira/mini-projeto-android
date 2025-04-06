@@ -22,6 +22,7 @@ body{
 header{
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
    min-height: 150px;
+   width: 100%;
 }
 .titulo-principal{
     font-family:'Bebas';
@@ -177,4 +178,5 @@ footer{
     padding: 10px;
     margin-top: 20px;
     background-color:var(--cor4) ;
+    width: 100%;
 }
